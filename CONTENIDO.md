@@ -1,0 +1,118 @@
+---
+
+# Tabla de contenido
+---
+- [PYTHON BASICO](#Python-basico).
+    - [X] [Operadores aritmeticos, logicos y de comparacion](#Operadores-aritmeticos,-logicos-y-de-comparacion).
+    - [X] [Variables](#Variables).
+    - [X] [Tipos de datos](#Tipo-de-datos). 
+    - [X] [Condicionales](#Condicionales).
+    - [X] [Funciones y modulacion](#Funciones-y-modulacion).
+    - [X] [Strings](#Strings).
+    - [X] [Bucles](#Bucles).
+    - [x] [Estructuras de datos](#Estructuras-de-datos).
+---
+- [PYTHON INTERMEDIO](#Python-intermedio).
+    - [X] [El Zen de python](#El-Zen-de-python).
+    - [X] [Documentacion](#Documentacion).
+    - [X] [Entorno virtual](#Entorno-virtual).
+    - [X] [Listas y diccionarios anidados](#Listas-y-diccionarios-anidados).
+    - [X] [List comprehensions](#List-comprehensions).
+    - [X] [Dictionary comprehensions](#Dictionary-comprehensions).    
+    - [X] [Lambda](#Lambda).
+    - [X] [High order functions: filter, map y reduce](#High-order-functions:-filter,-map-y-reduce).
+    - [X] [Manejo de errores](#Manejo-de-errores).
+    - [X] [Debugging](#Debugging).
+    - [X] [Manejo de excepciones](#Manejo-de-excepciones).
+    - [X] [Assert statements](#Assert-statements).
+    - [X] [Manejo de archivos](#Manejo-de-archivos).
+    - [X] [Archivos de texto](#Archivos-de-texto).
+---
+- [PYTHON PROFESIONAL](#Python-profesional).
+    - [X] [Como funciona python?](#Como-funciona-python?).
+    - [X] [Organizacion de archivos de proyecto](#[Organizacion-de-archivos-de-proyecto).
+    - [X] [Tipados](#Tipados).
+    - [X] [Tipado estatico](#Tipado-estatico).
+    - [X] [Tipado dinamico](#Tipado-dinamico).
+    - [X] [Tipado debil](#Tipado-debil).
+    - [X] [Tipado fuerte](#Tipado-fuerte).
+    - [X] [Tipado estatico en Python](#Tipado-estatico-en-Python).
+    - [X] [Scope: Alcance de las variables](#Scope:-Alcance-de-las-variables).
+    - [X] [Closures / Nested function](#Closures-/-Nested-function).
+    - [X] [Decoradores](#Decoradores)
+    - [X] [Manejo de fecha / time zones](#Manejo-de-fecha-/-time-zones).
+- [ESTRUCTURAS DE DATOS AVANZADOS](#Estructuras-de-datos-avanzados).
+    - [X] [Iteradores](#Iteradores).
+    - [X] [Generadores](#Generadores).
+    - [X] [Sets](#Sets).  
+---
+- [POO y ALGORITMOS](#).
+    - [ ] [](#).
+---
+- [PROGRAMACION ORIENTADA A OBJETOS](#).
+    - [ ] [](#).
+---
+- [ALGORITMOS DE BUSQUEDA Y ORDENAMIENTO](#).
+    - [ ] [](#).
+---
+- [INTRODUCCION A LA TERMINAL Y LINEA DE COMANDOS](#).
+    - [ ] [](#).
+---
+- [LINUX](#).
+    - [ ] [](#).
+---
+
+- [CURSO PROFESIONAL DE GIT Y GITHUB](#).
+    - [ ] [](#).
+---
+- [11.Fundamentos de bases de Datos](#).
+    - [ ] [](#).
+---
+- [12.Excel basico](#).
+    - [ ] [](#).
+---
+- [13.Fundamentos de Matematica](#).
+    - [ ] [](#).
+---
+- [14.Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](#Entorno-de-Trabajo-para-Ciencia-de-Datos-con-Jupyter-Notebooks-y-Anaconda).    
+    - [ ] [Google Colab](#Google-Colab).
+    - [ ] [DeepNotes](#DeepNotes).
+    - [ ] [VSCode](#VSCode).
+    - [ ] [WSL](#WSL).
+    - [ ] [Anaconda](#Anaconda).
+    - [ ] [Ambientes virtuales](#Ambientes-virtuales).
+    - [ ] [Conda](#Conda).
+    - [ ] [Mamba](#Mamba).
+--- 
+- [15.Analisis de negocios para ciencia de datos](#).
+    - [ ] [](#).
+---
+- [16.Programacion dinamica y estocastica](#).
+    - [ ] [](#).
+---
+- [17.Estadistica Computacional con Python](#)
+    - [ ](#)
+---
+- [18.Introduccion al pensamiento probabilistico](#)
+    - [ ](#)
+---
+- [19.Ingenieria de datos con Python](#).
+    - [ ] [](#).
+---
+- [20.Marca Personal](#).
+    - [ ] [](#).
+---
+- [21.Manipulacion y analisis de datos con Pandas y Python](#).
+    - [ ] [](#).
+---
+- [22.Fundamentos de ingerieria de software](#).
+    - [ ] [](#).
+---
+- [23.Matematicas para Data Science](#)
+    - [ ] [](#).
+  
+---
+
+
+
+
